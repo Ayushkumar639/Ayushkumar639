@@ -72,17 +72,6 @@ Full-stack platform built end-to-end, alongside a responsive weather tracking to
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ayushkumar639&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkumar639&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushkumar639&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=8b5cf6" />
-
-<br>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushkumar639&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=ffffff" />
 
 </div>
