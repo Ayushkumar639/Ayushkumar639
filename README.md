@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Ayush! 👋</h1>
+<!-- Animated Wave Banner -->
+![Ayush Kumar](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ayush%20Kumar&fontSize=70&fontAlignY=35&desc=B.Tech%20Avionics%20%7C%20Full-Stack%20Dev&descAlignY=55&descSize=20)
 
-<h3 align="center">B.Tech Avionics | Full-Stack Developer | Embedded Systems</h3>
-
+<!-- Visitor Counter & Socials -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ayushkumar639&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
   <br><br>
@@ -9,7 +9,10 @@
   <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
----
+<!-- GitHub Trophies -->
+[![Ayush's Trophies](https://github-profile-trophy.vercel.app/?username=Ayushkumar639&theme=radical&row=1&column=7&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
 
 ### 🚀 About Me
 > A 2nd-year B.Tech ECE (Avionics) student bridging the gap between hardware engineering and modern full-stack web development. Always eager to build, experiment, and learn.
@@ -43,23 +46,23 @@
 
 ### 🛠️ Featured Projects
 
-*   **[WonderLust](https://github.com/Ayushkumar639/WonderLust)** - Full-stack property rental platform (Airbnb-style) with user auth, listings, and Mapbox integration. <br> ![Stars](https://img.shields.io/github/stars/Ayushkumar639/WonderLust?style=social)
-*   **[Weather-App-using-React](https://github.com/Ayushkumar639/Weather-App-using-React)** - Responsive weather app using real-time OpenWeatherMap API data. <br> ![Stars](https://img.shields.io/github/stars/Ayushkumar639/Weather-App-using-React?style=social)
-*   **Real-Time Aircraft Orientation Visualizer** - Engineered a physical aircraft model utilizing an ESP32 microcontroller and MPU6050 IMU sensor to track and visualize pitch, roll, and yaw in real-time.
+[![WonderLust](https://github-readme-stats.vercel.app/api/pin/?username=Ayushkumar639&repo=WonderLust&theme=radical)](https://github.com/Ayushkumar639/WonderLust)
+[![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=Ayushkumar639&repo=Weather-App-using-React&theme=radical)](https://github.com/Ayushkumar639/Weather-App-using-React)
 
 ---
 
 ### 📊 Developer Analytics
 
-<p align="center">
-  ![GitHub Followers](https://img.shields.io/github/followers/Ayushkumar639?style=for-the-badge&color=0D1117&logo=github)
-  ![GitHub Repos](https://img.shields.io/github/repos/Ayushkumar639?style=for-the-badge&color=0D1117&logo=github)
-  ![GitHub Stars](https://img.shields.io/github/stars/Ayushkumar639?style=for-the-badge&color=0D1117&logo=github)
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayushkumar639&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/Ayushkumar639)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayushkumar639&theme=radical&hide_border=true&background=0D1117)](https://github.com/Ayushkumar639)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushkumar639&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
+<br>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkumar639&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/Ayushkumar639)
+
+### 📈 GitHub Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayushkumar639&theme=react-dark&hide_border=true&bg_color=0D1117)](https://github.com/Ayushkumar639)
 
 ### 🐍 Contribution Animation
 <p align="center">
