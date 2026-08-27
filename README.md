@@ -10,9 +10,11 @@
 </p>
 
 <!-- GitHub Trophies -->
+<br>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ayushkumar639&theme=radical&row=1&column=7&no-frame=true&no-bg=true" alt="Ayush's Trophies" /></a>
+  [![Ayush's Trophies](https://github-profile-trophy.vercel.app/?username=Ayushkumar639&theme=radical&row=1&column=7&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
+<br>
 
 <br>
 
@@ -57,20 +59,19 @@
 
 ### 📊 Developer Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushkumar639&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushkumar639&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkumar639&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayushkumar639&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayushkumar639&theme=radical&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+<br>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkumar639&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📈 GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushkumar639&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
-</p>
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayushkumar639&theme=react-dark&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 🐍 Contribution Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ayushkumar639/Ayushkumar639/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 ### 🐍 Contribution Animation
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ayushkumar639/Ayushkumar639/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
