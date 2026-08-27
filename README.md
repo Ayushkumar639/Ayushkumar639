@@ -69,15 +69,3 @@ Full-stack platform built end-to-end, alongside a responsive weather tracking to
 </table>
 
 <br>
-
-### 📊 GitHub Analytics
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushkumar639&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=ffffff" />
-
-</div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:6366f1&height=100&section=footer" />
-
-</div>
