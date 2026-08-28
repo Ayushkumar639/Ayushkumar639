@@ -13,7 +13,7 @@
 [![Email](https://img.shields.io/badge/-ayushjangid203%40gmail.com-0f1b2b?style=for-the-badge&logo=gmail&logoColor=5FD8C9)](mailto:ayushjangid203@gmail.com)
 [![Location](https://img.shields.io/badge/-Jammu,%20India-0f1b2b?style=for-the-badge&logo=googlemaps&logoColor=F2A93B)](#)
 [![GitHub followers](https://img.shields.io/github/followers/Ayushkumar639?style=for-the-badge&color=0f1b2b&labelColor=0f1b2b&logo=github)](https://github.com/Ayushkumar639?tab=followers)
-[![Get In Touch](https://img.shields.io/badge/-Get%20In%20Touch-5FD8C9?style=for-the-badge&logo=maildotru&logoColor=0f1b2b)](https://ayushkumar639.github.io/contact.html)
+[![Get In Touch](https://img.shields.io/badge/-Get%20In%20Touch-5FD8C9?style=for-the-badge&logo=maildotru&logoColor=0f1b2b)](https://www.linkedin.com/in/ayush-kumar-5584643a3/)
 
 </div>
 
