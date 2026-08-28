@@ -109,14 +109,6 @@ Full-stack travel planning platform with a responsive live weather tracking tool
 </div>
 
 <details>
-<summary><strong>🏆 GitHub Trophies</strong></summary>
-<br/>
-<div align="center">
-<img src="./profile/trophy.svg"/>
-</div>
-</details>
-
-<details>
 <summary><strong>🐍 Contribution Snake</strong></summary>
 <br/>
 <div align="center">
