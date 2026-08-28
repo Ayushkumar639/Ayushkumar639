@@ -2,13 +2,13 @@
 
 <img alt="header banner" src="./assets/banner.svg" width="100%"/>
 
-<sub>🌓 Cards below auto-switch to match your GitHub color theme (Settings → Appearance) — no toggle needed, it's built into <code>prefers-color-scheme</code>. The banner above is a static file in this repo, so it can't go down.</sub>
+<sub>🌓 Cards below auto-switch to match your GitHub color theme (Settings → Appearance) — built into <code>prefers-color-scheme</code>, no toggle needed.</sub>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=5FD8C9&center=true&vCenter=true&width=600&lines=Sensor+fusion+by+day%2C+full-stack+by+night;BiLSTM+%2B+Attention+%2B+1D-CNN+%7C+GPS+spoofing+detection;ESP32+%2B+MPU6050+%7C+React+%2B+Tailwind;Building+STRC+%E2%80%94+a+GPS+trust+checkpoint+system" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=5FD8C9&center=true&vCenter=true&width=560&lines=Sensor+fusion+by+day%2C+full-stack+by+night;BiLSTM+%2B+Attention+%2B+1D-CNN+%7C+GPS+spoofing+detection;ESP32+%2B+MPU6050+%7C+React+%2B+Tailwind;Building+STRC+%E2%80%94+a+GPS+trust+checkpoint+system" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 [![Email](https://img.shields.io/badge/-ayushjangid203%40gmail.com-0f1b2b?style=for-the-badge&logo=gmail&logoColor=5FD8C9)](mailto:ayushjangid203@gmail.com)
 ![Location](https://img.shields.io/badge/-Jammu,%20India-0f1b2b?style=for-the-badge&logo=googlemaps&logoColor=F2A93B)
@@ -24,7 +24,9 @@
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" height="6" alt=""/>
+<img src="./assets/divider.svg" width="100%" height="20" alt=""/>
+
+<sub><code>// 01 — IDENTITY</code></sub>
 
 ## About Me
 
@@ -36,7 +38,9 @@ researching:    Wireless communication tech, 4G signal propagation, microcontrol
 fun_fact:       Away from the soldering iron, I'm an award-winning singer 🎤
 ```
 
-<img src="./assets/divider.svg" width="100%" height="6" alt=""/>
+<img src="./assets/divider.svg" width="100%" height="20" alt=""/>
+
+<sub><code>// 02 — SYSTEMS</code></sub>
 
 ## 🛠 Tech Stack
 
@@ -54,7 +58,9 @@ fun_fact:       Away from the soldering iron, I'm an award-winning singer 🎤
 
 <sub>Icons via <a href="https://skillicons.dev">skillicons.dev</a> — no ESP32-specific icon exists in the set, so Arduino stands in for microcontroller work.</sub>
 
-<img src="./assets/divider.svg" width="100%" height="6" alt=""/>
+<img src="./assets/divider.svg" width="100%" height="20" alt=""/>
+
+<sub><code>// 03 — MISSION LOG</code></sub>
 
 ## 🚀 Featured Work
 
@@ -103,7 +109,9 @@ Full-stack travel planning platform with a responsive live weather tracking tool
 
 <sub>💡 Pin these 4 repos to your profile (profile page → Customize your pins) so the "Popular repositories" row visitors scroll to next actually matches this table — right now only <code>WonderLust</code> and <code>Weather-App-using-React</code> show up there.</sub>
 
-<img src="./assets/divider.svg" width="100%" height="6" alt=""/>
+<img src="./assets/divider.svg" width="100%" height="20" alt=""/>
+
+<sub><code>// 04 — TELEMETRY</code></sub>
 
 ## ⚡ Recent Activity
 
@@ -112,16 +120,12 @@ Full-stack travel planning platform with a responsive live weather tracking tool
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<img src="./assets/divider.svg" width="100%" height="6" alt=""/>
-
 ## ⏱ Coding Time
 
 > Weekly stats from WakaTime, auto-updated daily via `waka.yml`. Requires a (free) WakaTime account — see setup notes below.
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-<img src="./assets/divider.svg" width="100%" height="6" alt=""/>
 
 ## 📊 GitHub Analytics
 
