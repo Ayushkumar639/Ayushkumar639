@@ -24,6 +24,8 @@
 
 </div>
 
+<img src="./assets/divider.svg" width="100%" height="6" alt=""/>
+
 ## About Me
 
 I'm a B.Tech Electronics & Communication Engineering **(Avionics)** student bridging hardware engineering with modern web development. I build embedded systems that sense the physical world, and full-stack apps that look as good as they work.
@@ -34,7 +36,7 @@ researching:    Wireless communication tech, 4G signal propagation, microcontrol
 fun_fact:       Away from the soldering iron, I'm an award-winning singer 🎤
 ```
 
-<br/>
+<img src="./assets/divider.svg" width="100%" height="6" alt=""/>
 
 ## 🛠 Tech Stack
 
@@ -46,9 +48,13 @@ fun_fact:       Away from the soldering iron, I'm an award-winning singer 🎤
 
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react&theme=dark" alt="HTML5, CSS3, Tailwind CSS, JavaScript, React"/>
 
+**Backend & Tools**
+
+<img src="https://skillicons.dev/icons?i=python,flask,nodejs,express,mongodb,git&theme=dark" alt="Python, Flask, Node.js, Express, MongoDB, Git"/>
+
 <sub>Icons via <a href="https://skillicons.dev">skillicons.dev</a> — no ESP32-specific icon exists in the set, so Arduino stands in for microcontroller work.</sub>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" height="6" alt=""/>
 
 ## 🚀 Featured Work
 
@@ -97,9 +103,7 @@ Full-stack travel planning platform with a responsive live weather tracking tool
 
 <sub>💡 Pin these 4 repos to your profile (profile page → Customize your pins) so the "Popular repositories" row visitors scroll to next actually matches this table — right now only <code>WonderLust</code> and <code>Weather-App-using-React</code> show up there.</sub>
 
-<br/>
-
-<br/>
+<img src="./assets/divider.svg" width="100%" height="6" alt=""/>
 
 ## ⚡ Recent Activity
 
@@ -108,7 +112,7 @@ Full-stack travel planning platform with a responsive live weather tracking tool
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<br/>
+<img src="./assets/divider.svg" width="100%" height="6" alt=""/>
 
 ## ⏱ Coding Time
 
@@ -117,7 +121,7 @@ Full-stack travel planning platform with a responsive live weather tracking tool
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<br/>
+<img src="./assets/divider.svg" width="100%" height="6" alt=""/>
 
 ## 📊 GitHub Analytics
 
