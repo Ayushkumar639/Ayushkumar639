@@ -1,12 +1,8 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f1b2b,100:5fd8c9&height=200&section=header&text=Ayush%20Kumar&fontSize=46&fontColor=e7eef6&fontAlignY=38&desc=B.Tech%20Avionics%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e7eef6,100:5fd8c9&height=200&section=header&text=Ayush%20Kumar&fontSize=46&fontColor=0f1b2b&fontAlignY=38&desc=B.Tech%20Avionics%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn">
-  <img alt="header banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1b2b,100:5fd8c9&height=200&section=header&text=Ayush%20Kumar&fontSize=46&fontColor=e7eef6&fontAlignY=38&desc=B.Tech%20Avionics%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-</picture>
+<img alt="header banner" src="./assets/banner.svg" width="100%"/>
 
-<sub>🌓 Banner and cards below auto-switch to match your GitHub color theme (Settings → Appearance) — no toggle needed, it's built into <code>prefers-color-scheme</code>.</sub>
+<sub>🌓 Cards below auto-switch to match your GitHub color theme (Settings → Appearance) — no toggle needed, it's built into <code>prefers-color-scheme</code>. The banner above is a static file in this repo, so it can't go down.</sub>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=5FD8C9&center=true&vCenter=true&width=600&lines=Sensor+fusion+by+day%2C+full-stack+by+night;BiLSTM+%2B+Attention+%2B+1D-CNN+%7C+GPS+spoofing+detection;ESP32+%2B+MPU6050+%7C+React+%2B+Tailwind;Building+STRC+%E2%80%94+a+GPS+trust+checkpoint+system" alt="Typing SVG" />
@@ -138,6 +134,6 @@ Full-stack travel planning platform with a responsive live weather tracking tool
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Ayushkumar639&color=5fd8c9&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Ayushkumar639)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5fd8c9,100:0f1b2b&height=100&section=footer" width="100%"/>
+<img src="./assets/footer.svg" width="100%"/>
 
 </div>
