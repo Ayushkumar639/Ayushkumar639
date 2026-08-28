@@ -13,7 +13,14 @@
 [![Email](https://img.shields.io/badge/-ayushjangid203%40gmail.com-0f1b2b?style=for-the-badge&logo=gmail&logoColor=5FD8C9)](mailto:ayushjangid203@gmail.com)
 [![Location](https://img.shields.io/badge/-Jammu,%20India-0f1b2b?style=for-the-badge&logo=googlemaps&logoColor=F2A93B)](#)
 [![GitHub followers](https://img.shields.io/github/followers/Ayushkumar639?style=for-the-badge&color=0f1b2b&labelColor=0f1b2b&logo=github)](https://github.com/Ayushkumar639?tab=followers)
-[![Get In Touch](https://img.shields.io/badge/-Get%20In%20Touch-5FD8C9?style=for-the-badge&logo=maildotru&logoColor=0f1b2b)](https://www.linkedin.com/in/ayush-kumar-5584643a3/)
+[![Get In Touch](https://img.shields.io/badge/-Get%20In%20Touch-5FD8C9?style=for-the-badge&logo=maildotru&logoColor=0f1b2b)](https://ayushkumar639.github.io/contact.html)
+
+<!--
+  SOCIAL LINKS — replace the # below with your real profile URLs, then delete this comment.
+  Any row you don't use, just delete the line for it.
+-->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0f1b2b?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](#)
+[![X](https://img.shields.io/badge/-X-0f1b2b?style=for-the-badge&logo=x&logoColor=E7EEF6)](#)
 
 </div>
 
@@ -33,18 +40,13 @@ fun_fact:       Away from the soldering iron, I'm an award-winning singer 🎤
 
 **Hardware & Embedded Systems**
 
-![C++](https://img.shields.io/badge/C++-0f1b2b?style=for-the-badge&logo=cplusplus&logoColor=5FD8C9)
-![ESP32](https://img.shields.io/badge/ESP32-0f1b2b?style=for-the-badge&logo=espressif&logoColor=F2A93B)
-![Embedded C](https://img.shields.io/badge/Embedded%20C-0f1b2b?style=for-the-badge&logo=c&logoColor=5FD8C9)
-![IMU/Sensors](https://img.shields.io/badge/IMU%20%2F%20Sensor%20Fusion-0f1b2b?style=for-the-badge&logo=aiohttp&logoColor=F2A93B)
+<img src="https://skillicons.dev/icons?i=cpp,c,arduino&theme=dark" alt="C++, Embedded C, Arduino/ESP32-class microcontrollers"/>
 
 **Web Development**
 
-![HTML5](https://img.shields.io/badge/HTML5-0f1b2b?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0f1b2b?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-0f1b2b?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f1b2b?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-0f1b2b?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react&theme=dark" alt="HTML5, CSS3, Tailwind CSS, JavaScript, React"/>
+
+<sub>Icons via <a href="https://skillicons.dev">skillicons.dev</a> — no ESP32-specific icon exists in the set, so Arduino stands in for microcontroller work.</sub>
 
 <br/>
 
@@ -92,6 +94,26 @@ Full-stack travel planning platform with a responsive live weather tracking tool
 </td>
 </tr>
 </table>
+
+<br/>
+
+<br/>
+
+## ⚡ Recent Activity
+
+> Auto-updates every 30 minutes via `activity.yml` — pulls straight from the GitHub Events API, no third-party server involved.
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br/>
+
+## ⏱ Coding Time
+
+> Weekly stats from WakaTime, auto-updated daily via `waka.yml`. Requires a (free) WakaTime account — see setup notes below.
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br/>
 
