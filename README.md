@@ -11,7 +11,7 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/-ayushjangid203%40gmail.com-0f1b2b?style=for-the-badge&logo=gmail&logoColor=5FD8C9)](mailto:ayushjangid203@gmail.com)
-[![Location](https://img.shields.io/badge/-Jammu,%20India-0f1b2b?style=for-the-badge&logo=googlemaps&logoColor=F2A93B)](#)
+![Location](https://img.shields.io/badge/-Jammu,%20India-0f1b2b?style=for-the-badge&logo=googlemaps&logoColor=F2A93B)
 [![GitHub followers](https://img.shields.io/github/followers/Ayushkumar639?style=for-the-badge&color=0f1b2b&labelColor=0f1b2b&logo=github)](https://github.com/Ayushkumar639?tab=followers)
 [![Get In Touch](https://img.shields.io/badge/-Get%20In%20Touch-5FD8C9?style=for-the-badge&logo=maildotru&logoColor=0f1b2b)](https://ayushkumar639.github.io/contact.html)
 
@@ -29,7 +29,7 @@
 I'm a B.Tech Electronics & Communication Engineering **(Avionics)** student bridging hardware engineering with modern web development. I build embedded systems that sense the physical world, and full-stack apps that look as good as they work.
 
 ```yaml
-current_focus:  Summer internship opportunities in India
+current_focus:  Final-year avionics project — open to internships & collabs
 researching:    Wireless communication tech, 4G signal propagation, microcontroller integration
 fun_fact:       Away from the soldering iron, I'm an award-winning singer 🎤
 ```
@@ -94,6 +94,8 @@ Full-stack travel planning platform with a responsive live weather tracking tool
 </td>
 </tr>
 </table>
+
+<sub>💡 Pin these 4 repos to your profile (profile page → Customize your pins) so the "Popular repositories" row visitors scroll to next actually matches this table — right now only <code>WonderLust</code> and <code>Weather-App-using-React</code> show up there.</sub>
 
 <br/>
 
