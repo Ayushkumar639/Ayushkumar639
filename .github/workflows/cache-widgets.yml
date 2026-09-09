@@ -1,0 +1,32 @@
+name: cache readme widgets
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  cache:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+
+      - name: create assets folder
+        run: mkdir -p assets
+
+      - name: fetch trophies svg
+        run: curl -sL "https://github-profile-trophy.vercel.app/?username=Ayushkumar639&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" -o assets/trophies.svg
+
+      - name: fetch activity graph svg
+        run: curl -sL "https://github-readme-activity-graph.vercel.app/graph?username=Ayushkumar639&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&area_color=6D28D9&hide_border=true" -o assets/activity-graph.svg
+
+      - name: commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/trophies.svg assets/activity-graph.svg
+          git diff --staged --quiet || git commit -m "chore: refresh readme widgets [skip ci]"
+          git push
