@@ -300,6 +300,13 @@ A space-systems research internship focused on satellite modeling and RF systems
 
 ---
 
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## 🎯 Current Focus
 
 ```yaml
