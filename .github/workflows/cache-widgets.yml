@@ -23,10 +23,13 @@ jobs:
       - name: fetch activity graph svg
         run: curl -sL "https://github-readme-activity-graph.vercel.app/graph?username=Ayushkumar639&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&area_color=6D28D9&hide_border=true" -o assets/activity-graph.svg
 
-      - name: commit and push
+      - name: verify files are non-empty
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/trophies.svg assets/activity-graph.svg
-          git diff --staged --quiet || git commit -m "chore: refresh readme widgets [skip ci]"
-          git push
+          test -s assets/trophies.svg || (echo "::error::trophies.svg is empty - the trophy service likely failed to respond" && exit 1)
+          test -s assets/activity-graph.svg || (echo "::error::activity-graph.svg is empty - the activity graph service likely failed to respond" && exit 1)
+
+      - name: commit and push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh readme widgets"
+          file_pattern: "assets/trophies.svg assets/activity-graph.svg"
