@@ -7,6 +7,8 @@
 <br/>
 
 ![B.Tech](https://img.shields.io/badge/B.Tech-ECE%20(Avionics)-6D28D9?style=flat-square&labelColor=1E1B4B)
+![CGPA](https://img.shields.io/badge/CGPA-8.51%2F10.0-8B5CF6?style=flat-square&labelColor=1E1B4B)
+![University](https://img.shields.io/badge/Central%20University%20of%20Jammu-Class%20of%202028-7C3AED?style=flat-square&labelColor=1E1B4B)
 ![Location](https://img.shields.io/badge/Location-Jammu%2C%20India-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
 
 <br/>
@@ -268,7 +270,7 @@ A space-systems research internship focused on satellite modeling and RF systems
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ayushkumar639&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" width="100%"/>
+<img src="https://raw.githubusercontent.com/Ayushkumar639/Ayushkumar639/main/assets/trophies.svg" width="100%"/>
 
 </div>
 
@@ -278,7 +280,7 @@ A space-systems research internship focused on satellite modeling and RF systems
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushkumar639&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&area_color=6D28D9&hide_border=true" width="100%"/>
+<img src="https://raw.githubusercontent.com/Ayushkumar639/Ayushkumar639/main/assets/activity-graph.svg" width="100%"/>
 
 </div>
 
