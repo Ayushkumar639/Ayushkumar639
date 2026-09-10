@@ -20,13 +20,13 @@ jobs:
       - name: fetch trophies svg
         run: |
           curl -sL -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" \
-            "https://github-profile-trophy.vercel.app/?username=Ayushkumar639&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" \
+            "https://trophy.benkou.dev/?username=Ayushkumar639&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" \
             -o assets/trophies.svg
 
       - name: fetch activity graph svg
         run: |
           curl -sL -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" \
-            "https://github-readme-activity-graph.vercel.app/graph?username=Ayushkumar639&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&area_color=6D28D9&hide_border=true" \
+            "https://fabianocouto-activity-graph.vercel.app/graph/?username=Ayushkumar639&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&area_color=6D28D9&hide_border=true" \
             -o assets/activity-graph.svg
 
       - name: verify files are valid svg
