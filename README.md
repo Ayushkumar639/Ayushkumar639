@@ -266,26 +266,6 @@ A space-systems research internship focused on satellite modeling and RF systems
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Ayushkumar639/Ayushkumar639/main/assets/trophies.svg" width="100%"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Ayushkumar639/Ayushkumar639/main/assets/activity-graph.svg" width="100%"/>
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
