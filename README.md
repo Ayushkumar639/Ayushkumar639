@@ -7,6 +7,7 @@
 <br/>
 
 ![B.Tech](https://img.shields.io/badge/B.Tech-ECE%20(Avionics)-6D28D9?style=flat-square&labelColor=1E1B4B)
+![CGPA](https://img.shields.io/badge/CGPA-8.51%2F10.0-8B5CF6?style=flat-square&labelColor=1E1B4B)
 ![University](https://img.shields.io/badge/Central%20University%20of%20Jammu-Class%20of%202028-7C3AED?style=flat-square&labelColor=1E1B4B)
 ![Location](https://img.shields.io/badge/Location-Jammu%2C%20India-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
 
@@ -269,9 +270,9 @@ A space-systems research internship focused on satellite modeling and RF systems
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayushkumar639/Ayushkumar639/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayushkumar639/Ayushkumar639/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Ayushkumar639/Ayushkumar639/output/github-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayushkumar639/Ayushkumar639/output/github-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayushkumar639/Ayushkumar639/output/github-snake.svg?v=2" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Ayushkumar639/Ayushkumar639/output/github-snake-dark.svg?v=2" width="100%"/>
 </picture>
 
 </div>
