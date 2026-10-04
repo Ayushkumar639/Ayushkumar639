@@ -256,8 +256,8 @@ A space-systems research internship focused on satellite modeling and RF systems
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ayushkumar639&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" width="49%" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkumar639&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" width="42%" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ayushkumar639&show_icons=true&hide_border=true&include_all_commits=true&hide=stars,prs,issues,contribs&hide_rank=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" width="49%" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkumar639&layout=compact&langs_count=6&hide=cuda&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" width="42%" alt="Top languages"/>
 
 <img src="https://streak-stats.demolab.com/?user=Ayushkumar639&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=EDE9FE&sideNums=EDE9FE&dates=6D28D9" width="90%" alt="GitHub streak"/>
 
